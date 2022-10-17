@@ -1,4 +1,4 @@
-service: dynamodb-crud-api
+service: AWS-serverless-lambda
 
 frameworkVersion: '3'
 
